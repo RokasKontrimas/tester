@@ -12,6 +12,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://tester-ashy.vercel.app",
+        "APP_KEY": "base64:2JamKySeefAROJF4b0u0SRJA1RfF0ZVhFrkcHLJE+6s=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
